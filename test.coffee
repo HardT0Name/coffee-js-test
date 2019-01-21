@@ -6,7 +6,7 @@ mod = (body) ->
     """
     reg = new RegExp(reg)
     if /[^0-9a-z\-]/.test(Arr[1])
-        return new Error("unexpected token")
+        throw new Error("unexpected token")
     body.match(reg)
 module.exports = mod
 
