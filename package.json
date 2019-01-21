@@ -1,0 +1,22 @@
+{
+  "name": "coffee-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardT0Name/coffee-js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardT0Name/coffee-js-test/issues"
+  },
+  "homepage": "https://github.com/HardT0Name/coffee-js-test#readme",
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}
